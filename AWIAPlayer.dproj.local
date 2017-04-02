@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/04/01 04:04:43.668,=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/01 04:05:56.625,C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.dproj=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/04/01 04:06:03.532,C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.pas=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/01 04:06:03.532,C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.dfm=C:\Users\miki\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/04/01 04:08:00.214,C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIA.pas=C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.pas</Transaction>
+    <Transaction>2017/04/01 04:08:00.214,C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIA.dfm=C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.dfm</Transaction>
+    <Transaction>2017/04/01 04:08:03.471,C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.dproj=C:\Users\miki\Documents\Embarcadero\Studio\Projects\AWIAPlayer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
